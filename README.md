@@ -67,6 +67,6 @@ docker rm <ID conteneur>
 FIN.
 
 
-nom : KADDOUR BRAHIM.
-Prénom : Adda Zouaoui.
+nom : KADDOUR BRAHIM
+Prénom : Adda Zouaoui
 Formation : Eazytrainning BOOTCAMP-12.
